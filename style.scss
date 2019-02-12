@@ -1,0 +1,24 @@
+
+/*
+  Import the common theme.
+*/
+@import "./_shared/scss/theme.scss";
+
+/*
+  If you need some CSS for any reason you can put it here.
+*/
+
+.inputs{
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.inputs div{
+	padding-bottom: 20px;
+}
+
+.yourAge{
+	font-size: 25px;
+	font-weight: bold;
+}
